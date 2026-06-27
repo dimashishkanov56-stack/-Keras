@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Virtual envs
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Keras / TensorFlow
+*.keras
+*.h5
+model_cache/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
